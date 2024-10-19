@@ -144,7 +144,7 @@
   }
 }
 
-@media screen and (min-width: 1450px) {
+@media screen and (min-width: 1840px) {
   .gpt3__header-content {
     margin-top: 10rem;
     justify-content: unset;
