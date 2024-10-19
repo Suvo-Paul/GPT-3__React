@@ -144,6 +144,13 @@
   }
 }
 
+@media screen and (min-width: 1450px) {
+  .gpt3__header-content {
+    margin-top: 10rem;
+    justify-content: unset;
+  }
+}
+
 @media screen and (max-width: 490px) {
   .gpt3__header h1 {
     font-size: 36px;
