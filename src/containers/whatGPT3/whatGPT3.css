@@ -5,6 +5,8 @@
   padding: 2rem;
   background: var(--color-footer);
 
+  border-radius: 6px;
+
   /* ff 3.6+ */
   background: -moz-radial-gradient(
     circle at 30% -100%,
