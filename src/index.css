@@ -14,7 +14,7 @@
 }
 
 ::-webkit-scrollbar {
-  width: 12px;
+  width: 10px;
 }
 
 ::-webkit-scrollbar-track {
@@ -25,6 +25,7 @@
 ::-webkit-scrollbar-thumb {
   background: var(--color-blog);
   border-radius: 10px;
+  transition: background 0.3s ease;
 }
 
 ::-webkit-scrollbar-thumb:hover {
